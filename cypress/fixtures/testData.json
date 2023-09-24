@@ -1,0 +1,10 @@
+{
+  "name": "Łukasz",
+  "gender": "Male",
+  "productName": ["Blackberry", "iphone X", "Nokia Edge"],
+  "country": "Poland",
+  "option": ["option1", "option2"],
+  "removeAtrr": ["target", "123"],
+  "email": "lukasz.pietrzyk@example.com",
+  "password": "123456xD"
+}

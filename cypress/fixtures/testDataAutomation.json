@@ -1,0 +1,29 @@
+{
+  "name": "Łukasz",
+  "email": "123@test.com",
+  "phone": "670300323",
+  "address": "Automation Testing",
+  "baseUrl": "testautomationpractice",
+  "country": [
+    "usa",
+    "canada",
+    "uk",
+    "germany",
+    "france",
+    "australia",
+    "japan",
+    "china",
+    "brazil",
+    "india"
+  ],
+  "colorData": ["red", "blue", "green", "yellow", "white"],
+  "priceBookInTable": ["300", "500", "300", "3000", "2000", "1000"],
+  "nameBookInTable": [
+    "Selenium",
+    "Java",
+    "Javascript",
+    "Selenium",
+    "JAVA",
+    "Javascript"
+  ]
+}
